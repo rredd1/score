@@ -1,2 +1,2 @@
-# ms_teams
-Newsletter for Microsoft Teams
+# scorecard
+IT Scorecard survey email design
